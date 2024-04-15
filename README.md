@@ -1,5 +1,5 @@
 # LarrySniffer
-Retrieve the daily NBA player of the day from LarryBirdle.com
+Retrieve the daily NBA player of the day from LarryBirdle.com   
 ![Image](Showcase.png)
 
 ## How to use
